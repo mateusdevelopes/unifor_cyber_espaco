@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445656532377",
+    "firebase_url": "https://cadeira-sistemas-cyberfisico.firebaseio.com",
+    "project_id": "cadeira-sistemas-cyberfisico",
+    "storage_bucket": "cadeira-sistemas-cyberfisico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445656532377:android:987386667ef5502ca7bf08",
+        "android_client_info": {
+          "package_name": "com.mateusdevelopes.cyberespaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445656532377-eutlln398n36pctge028i6hc6ef33uvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EQnq8QshI2z6_kkOBOeOQ33W_1NXhaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445656532377-eutlln398n36pctge028i6hc6ef33uvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
